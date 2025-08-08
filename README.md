@@ -1,8 +1,11 @@
-## Hi, I'm Muhammad Salam 👋  
+# Hi, I'm Muhammad Salam - Website Designer and Website Developer 👋  
 
 🚀 **Lead Software Engineer @ Developera | Website Developer and Website Designer + Technical Project Manager**  
 Passionate about building impactful software, crafting seamless user experiences, and integrating complex backend systems with clean, maintainable code.  
+## 📞 Contact Details
 
+- **📱 Mobile / WhatsApp:** [+92 346 8887736](https://wa.me/923468887736)
+- **📧 Email:** [salamaslam.official@gmail.com](mailto:salamaslam.official@gmail.com)
 ---
 
 ### 🛠 Tech Stacks & Skills
@@ -61,10 +64,11 @@ Passionate about building impactful software, crafting seamless user experiences
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/salamaslamofficial/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salamaslamofficial/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/muhammadsala279)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=upwork&logoColor=white)]([https://fiverr.com/muhammadsala279](https://www.upwork.com/freelancers/~016c7fa44a87e7d697/))
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016c7fa44a87e7d697/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://developera.io)
+
 
 ---
 
