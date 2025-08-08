@@ -7,8 +7,8 @@ Passionate about building impactful software, crafting seamless user experiences
 
 ### 🛠 Tech Stacks & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
